@@ -1,0 +1,26 @@
+
+create table IF NOT EXISTS AUTOMOBILES 
+(	auto_id INT NOT NULL AUTO_INCREMENT, 
+	make VARCHAR(128) NOT NULL, 
+	model VARCHAR(128) NOT NULL, 
+	base_price DOUBLE NOT NULL,
+	PRIMARY KEY (auto_id)
+);
+
+create table IF NOT EXISTS OPTION_SETS 
+(	option_set_id INT NOT NULL AUTO_INCREMENT,
+	auto_id INT NOT NULL, 
+	name VARCHAR(128) NOT NULL,
+	PRIMARY KEY (option_set_id),
+	FOREIGN KEY (auto_id) REFERENCES AUTOMOBILES (auto_id) ON DELETE CASCADE
+);
+
+create table IF NOT EXISTS OPTIONS 
+(	option_id INT NOT NULL AUTO_INCREMENT,
+	option_set_id INT NOT NULL, 
+	name VARCHAR(128) NOT NULL, 
+	price DOUBLE NOT NULL,
+	PRIMARY KEY (option_id),
+	FOREIGN KEY (option_set_id) REFERENCES OPTION_SETS (option_set_id) ON DELETE CASCADE
+);
+

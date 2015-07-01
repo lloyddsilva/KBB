@@ -1,0 +1,208 @@
+CarConfigServer is listening on port: 4444
+Accept passed.
+ccsclient created.
+socket started.
+starting in ssc ..
+Handling session within ServerSocketClient
+com.mysql.jdbc.JDBC4PreparedStatement@573833a4: insert into AUTOMOBILES (make, model, base_price) VALUES ('Ford', 'Focus Wagon ZTW', 18445.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4591a92b: insert into OPTION_SETS (auto_id, name) VALUES (22, 'Color')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5a63f899: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Fort Knox Gold Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@32502e91: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Liquid Grey Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@20d0f625: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Infra-Red Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@124ed4a0: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Grabber Green Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@55475794: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Sangria Red Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@72057ed0: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'French Blue Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@18c5ebd1: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Twilight Blue Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@7df71e4c: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'CD Silver Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@442d2f83: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Pitch Black Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5a79f710: insert into OPTIONS (option_set_id, name, price) VALUES (106, 'Cloud 9 White Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4376d90a: insert into OPTION_SETS (auto_id, name) VALUES (22, 'Transmission')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@33489f20: insert into OPTIONS (option_set_id, name, price) VALUES (107, 'Automatic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@1e9769e8: insert into OPTIONS (option_set_id, name, price) VALUES (107, 'Manual', -815.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@50683dcd: insert into OPTION_SETS (auto_id, name) VALUES (22, 'Brakes/Traction Control')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6318ff6: insert into OPTIONS (option_set_id, name, price) VALUES (108, 'Standard', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@3aa0e3bc: insert into OPTIONS (option_set_id, name, price) VALUES (108, 'ABS', 400.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@8ed9246: insert into OPTIONS (option_set_id, name, price) VALUES (108, 'ABS with Advance Trac', 1625.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@434a4c73: insert into OPTION_SETS (auto_id, name) VALUES (22, 'Side Impact Air Bags')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6b1267cf: insert into OPTIONS (option_set_id, name, price) VALUES (109, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6b6494b: insert into OPTIONS (option_set_id, name, price) VALUES (109, 'Present', 350.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5d0415c1: insert into OPTION_SETS (auto_id, name) VALUES (22, 'Power Moonroof')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5351bdf8: insert into OPTIONS (option_set_id, name, price) VALUES (110, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@792da97b: insert into OPTIONS (option_set_id, name, price) VALUES (110, 'Present', 595.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@67f2b52e: insert into AUTOMOBILES (make, model, base_price) VALUES ('Toyota', 'Corolla', 25300.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@50c91b9c: insert into OPTION_SETS (auto_id, name) VALUES (23, 'Color')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@63fffa21: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Black', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5be4b2cc: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Blue', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@72221a6a: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Green', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@54db7ce8: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Yellow', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@46bd11a1: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Teal', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6b683554: insert into OPTIONS (option_set_id, name, price) VALUES (111, 'Peach', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6a3d3eb7: insert into OPTION_SETS (auto_id, name) VALUES (23, 'Transmission')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@652e858f: insert into OPTIONS (option_set_id, name, price) VALUES (112, 'Automatic', 900.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@1fba4faf: insert into OPTIONS (option_set_id, name, price) VALUES (112, 'Manual', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@287237ff: insert into OPTION_SETS (auto_id, name) VALUES (23, 'Brakes/Traction Control')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2478e54a: insert into OPTIONS (option_set_id, name, price) VALUES (113, 'Standard', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@14326f7b: insert into OPTIONS (option_set_id, name, price) VALUES (113, 'ABS', 800.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4adba62c: insert into OPTIONS (option_set_id, name, price) VALUES (113, 'ABS with Advance Trac', 2625.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@121a11af: insert into OPTION_SETS (auto_id, name) VALUES (23, 'Side Impact Air Bags')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@7eb18da9: insert into OPTIONS (option_set_id, name, price) VALUES (114, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@20193026: insert into OPTIONS (option_set_id, name, price) VALUES (114, 'Present', 550.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4628f4c9: insert into OPTION_SETS (auto_id, name) VALUES (23, 'Power Moonroof')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@29d0147: insert into OPTIONS (option_set_id, name, price) VALUES (115, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@39090d8a: insert into OPTIONS (option_set_id, name, price) VALUES (115, 'Present', 795.0)
+Statement executed, and 1 rows inserted.
+Client Disconnected .. 
+Closing Session ..
+---
+com.mysql.jdbc.JDBC4PreparedStatement@27fa135a: insert into AUTOMOBILES (make, model, base_price) VALUES ('Ford', 'Focus Wagon ZTW', 18445.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@25f38edc: insert into OPTION_SETS (auto_id, name) VALUES (26, 'Color')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@531d72ca: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Fort Knox Gold Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2cdf8d8a: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Liquid Grey Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4459eb14: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Infra-Red Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@45283ce2: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Grabber Green Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5fa7e7ff: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Sangria Red Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@1ed6993a: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'French Blue Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@18769467: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Twilight Blue Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5b80350b: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'CD Silver Clearcoat Metallic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@1376c05c: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Pitch Black Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@3581c5f3: insert into OPTIONS (option_set_id, name, price) VALUES (126, 'Cloud 9 White Clearcoat', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@1a93a7ca: insert into OPTION_SETS (auto_id, name) VALUES (26, 'Transmission')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@ba8a1dc: insert into OPTIONS (option_set_id, name, price) VALUES (127, 'Automatic', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5fcfe4b2: insert into OPTIONS (option_set_id, name, price) VALUES (127, 'Manual', -815.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@58d25a40: insert into OPTION_SETS (auto_id, name) VALUES (26, 'Brakes/Traction Control')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@c2e1f26: insert into OPTIONS (option_set_id, name, price) VALUES (128, 'Standard', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6504e3b2: insert into OPTIONS (option_set_id, name, price) VALUES (128, 'ABS', 400.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@123a439b: insert into OPTIONS (option_set_id, name, price) VALUES (128, 'ABS with Advance Trac', 1625.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2401f4c3: insert into OPTION_SETS (auto_id, name) VALUES (26, 'Side Impact Air Bags')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@123772c4: insert into OPTIONS (option_set_id, name, price) VALUES (129, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@470e2030: insert into OPTIONS (option_set_id, name, price) VALUES (129, 'Present', 350.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@3b22cdd0: insert into OPTION_SETS (auto_id, name) VALUES (26, 'Power Moonroof')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6a6824be: insert into OPTIONS (option_set_id, name, price) VALUES (130, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@311d617d: insert into OPTIONS (option_set_id, name, price) VALUES (130, 'Present', 595.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2f333739: insert into AUTOMOBILES (make, model, base_price) VALUES ('Toyota', 'Corolla', 25300.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4cc77c2e: insert into OPTION_SETS (auto_id, name) VALUES (27, 'Color')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@383534aa: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Black', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@6a38e57f: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Blue', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@7a46a697: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Green', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@57fa26b7: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Yellow', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5679c6c6: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Teal', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@3339ad8e: insert into OPTIONS (option_set_id, name, price) VALUES (131, 'Peach', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@198e2867: insert into OPTION_SETS (auto_id, name) VALUES (27, 'Transmission')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@59690aa4: insert into OPTIONS (option_set_id, name, price) VALUES (132, 'Automatic', 900.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@5f5a92bb: insert into OPTIONS (option_set_id, name, price) VALUES (132, 'Manual', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@4ca8195f: insert into OPTION_SETS (auto_id, name) VALUES (27, 'Brakes/Traction Control')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@27082746: insert into OPTIONS (option_set_id, name, price) VALUES (133, 'Standard', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@33e5ccce: insert into OPTIONS (option_set_id, name, price) VALUES (133, 'ABS', 800.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2d6d8735: insert into OPTIONS (option_set_id, name, price) VALUES (133, 'ABS with Advance Trac', 2625.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@2471cca7: insert into OPTION_SETS (auto_id, name) VALUES (27, 'Side Impact Air Bags')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@31b7dea0: insert into OPTIONS (option_set_id, name, price) VALUES (134, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@387c703b: insert into OPTIONS (option_set_id, name, price) VALUES (134, 'Present', 550.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@282ba1e: insert into OPTION_SETS (auto_id, name) VALUES (27, 'Power Moonroof')
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@326de728: insert into OPTIONS (option_set_id, name, price) VALUES (135, 'Not Present', 0.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@66048bfd: insert into OPTIONS (option_set_id, name, price) VALUES (135, 'Present', 795.0)
+Statement executed, and 1 rows inserted.
+com.mysql.jdbc.JDBC4PreparedStatement@34033bd0: select auto_id from AUTOMOBILES where make = 'Ford' and model = 'Focus Wagon ZTW'
+com.mysql.jdbc.JDBC4PreparedStatement@34340fab: update OPTION_SETS set name = 'Shade' where auto_id = 26 and name = 'Color'
+Statement executed, and 1 rows updated.
+com.mysql.jdbc.JDBC4PreparedStatement@28864e92: select auto_id from AUTOMOBILES where make = 'Ford' and model = 'Focus Wagon ZTW'
+com.mysql.jdbc.JDBC4PreparedStatement@6e3c1e69: select option_set_id from OPTION_SETS where auto_id = 26 and name = 'Transmission'
+com.mysql.jdbc.JDBC4PreparedStatement@28f67ac7: update OPTIONS set name = 'Stick', price = -815.0 where option_set_id = 127 and name = 'Manual'
+Statement executed, and 1 rows updated.
+com.mysql.jdbc.JDBC4PreparedStatement@ea4a92b: select auto_id from AUTOMOBILES where make = 'Ford' and model = 'Focus Wagon ZTW'
+com.mysql.jdbc.JDBC4PreparedStatement@4563e9ab: select option_set_id from OPTION_SETS where auto_id = 26 and name = 'Transmission'
+com.mysql.jdbc.JDBC4PreparedStatement@66d33a: update OPTIONS set name = 'Automatic', price = 300.0 where option_set_id = 127 and name = 'Automatic'
+Statement executed, and 1 rows updated.
+com.mysql.jdbc.JDBC4PreparedStatement@75bd9247: delete from AUTOMOBILES where make = 'Ford' and model = 'Focus Wagon ZTW'
+Statement executed, and 1 rows deleted.
+com.mysql.jdbc.JDBC4PreparedStatement@1134affc: delete from AUTOMOBILES where make = 'Toyota' and model = 'Corolla'
+Statement executed, and 1 rows deleted.

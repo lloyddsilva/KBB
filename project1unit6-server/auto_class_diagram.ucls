@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="edu.cmu.lloyddsilva.db.SQL" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/SQL.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="266" x="563" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="edu.cmu.lloyddsilva.db.BaseDAO" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/BaseDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="264" x="3216" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="edu.cmu.lloyddsilva.server.ServerSocketClient" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/ServerSocketClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="188" width="187" x="2118" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="edu.cmu.lloyddsilva.dto.Instruction" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/dto/Instruction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="350" width="284" x="1572" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="edu.cmu.lloyddsilva.model.OptionSet" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/model/OptionSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="368" width="221" x="2120" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="edu.cmu.lloyddsilva.server.DefaultSocketClient" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/DefaultSocketClient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="368" width="190" x="1896" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="edu.cmu.lloyddsilva.db.AutomobileDAO" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/AutomobileDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="291" x="3216" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="edu.cmu.lloyddsilva.driver.CarConfigServer" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/driver/CarConfigServer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="176" x="2126" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="edu.cmu.lloyddsilva.db.OptionSetDAO" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/OptionSetDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="289" x="2887" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="edu.cmu.lloyddsilva.server.AutoServer" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/AutoServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="205" x="1172" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="edu.cmu.lloyddsilva.adapter.FixAuto" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/adapter/FixAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="139" x="3093" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="edu.cmu.lloyddsilva.db.DBProperties" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/DBProperties.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="256" x="51" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="edu.cmu.lloyddsilva.model.Automobile" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/model/Automobile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="764" width="323" x="2345" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="edu.cmu.lloyddsilva.db.DBUtils" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/DBUtils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="180" x="1352" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="edu.cmu.lloyddsilva.db.OptionDAO" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/db/OptionDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="347" x="3547" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="16" language="java" name="edu.cmu.lloyddsilva.server.SocketClientInterface" 
+    project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/SocketClientInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="173" x="1683" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="17" language="java" name="edu.cmu.lloyddsilva.adapter.CreateAuto" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/adapter/CreateAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="179" x="3272" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="18" language="java" name="edu.cmu.lloyddsilva.model.OptionSet.Option" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/model/OptionSet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="149" x="2120" y="1657"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="edu.cmu.lloyddsilva.adapter.ProxyAutomobile" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/adapter/ProxyAutomobile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="314" width="345" x="2527" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="edu.cmu.lloyddsilva.driver.DBTestDriver" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/driver/DBTestDriver.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="128" x="869" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="edu.cmu.lloyddsilva.server.SocketClientConstants" 
+    project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/SocketClientConstants.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="182" x="1896" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="edu.cmu.lloyddsilva.server.BuildCarModelOptions" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/server/BuildCarModelOptions.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="205" x="1172" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="edu.cmu.lloyddsilva.adapter.BuildAuto" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/adapter/BuildAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="139" x="2708" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="edu.cmu.lloyddsilva.adapter.UpdateAuto" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/adapter/UpdateAuto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="345" x="2708" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="25" language="java" name="edu.cmu.lloyddsilva.dto.InstructionType" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/dto/InstructionType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="226" x="1417" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="26" language="java" name="edu.cmu.lloyddsilva.exceptions.AutoException" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/exceptions/AutoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="224" width="176" x="347" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="edu.cmu.lloyddsilva.scale.EditOptions" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/scale/EditOptions.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="275" x="1037" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="28" language="java" name="edu.cmu.lloyddsilva.scale.EditThread" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/scale/EditThread.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="287" x="2381" y="1249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="29" language="java" name="edu.cmu.lloyddsilva.exceptions.ErrorCodes" project="project1unit6-server" 
+    file="/project1unit6-server/src/edu/cmu/lloyddsilva/exceptions/ErrorCodes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="253" x="347" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="31">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </realization>  
+  <association id="32">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="33" name="command"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="36" name="optionSets"/>      
+      <multiplicity id="37" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="39" name="choice"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <association id="42">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="43" name="errorCode"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="46">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="47" name="as"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="49">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="50">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="51">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="52">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="53" name="options"/>      
+      <multiplicity id="54" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="57" name="autos"/>      
+      <multiplicity id="58" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <nesting id="62">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <realization id="63">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="65">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="66" name="ccsClient"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

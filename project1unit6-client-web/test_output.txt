@@ -1,0 +1,26 @@
+CarConfigClient running and communicating to port: 4444
+starting in csc ..
+Please input a properties file name
+ford_properties.txt
+Successfully imported properties. Enter [upload] to send another or [get] to list all models.
+upload
+Please input a properties file name
+toyota_properties.txt
+Successfully imported properties. Enter [upload] to send another or [get] to list all models.
+get
+Please choose a model: [Ford Focus Wagon ZTW, Toyota Corolla]
+Toyota Corolla
+Automobile [make=Toyota, model=Corolla, basePrice=25300.0, optionSets=[OptionSet [name=Color, options=[Option [name=Black, price=0.0], Option [name=Blue, price=0.0], Option [name=Green, price=0.0], Option [name=Yellow, price=0.0], Option [name=Teal, price=0.0], Option [name=Peach, price=0.0]], choice=null], OptionSet [name=Transmission, options=[Option [name=Automatic, price=900.0], Option [name=Manual, price=0.0]], choice=null], OptionSet [name=Brakes/Traction Control, options=[Option [name=Standard, price=0.0], Option [name=ABS, price=800.0], Option [name=ABS with Advance Trac, price=2625.0]], choice=null], OptionSet [name=Side Impact Air Bags, options=[Option [name=Not Present, price=0.0], Option [name=Present, price=550.0]], choice=null], OptionSet [name=Power Moonroof, options=[Option [name=Not Present, price=0.0], Option [name=Present, price=795.0]], choice=null]]]
+Select Color
+Black
+Select Transmission
+Manual
+Select Brakes/Traction Control
+ABS
+Select Side Impact Air Bags
+Present
+Select Power Moonroof
+Present
+Here is your configured automobile: Automobile [make=Toyota, model=Corolla, basePrice=25300.0, Color=Black, Transmission=Manual, Brakes/Traction Control=ABS, Side Impact Air Bags=Present, Power Moonroof=Present]
+Enter [upload] to send another or [get] to list all models or [quit] to exit.
+quit
